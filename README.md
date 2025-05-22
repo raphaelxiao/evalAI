@@ -24,7 +24,8 @@
 
 ### 🖼️ 效果预览
 
-![应用截图](screenshot.png)
+![移动端](screenshot-mobile.png)
+![PC端](screenshot-desktop.png)
 
 ### 🚀 开发技术
 
@@ -126,7 +127,8 @@ A web application for evaluating the appropriate level of AI involvement in task
 
 ### 🖼️ Preview
 
-![Application Screenshot](screenshot.png)
+![mobile](screenshot-mobile.png)
+![PC](screenshot-desktop.png)
 
 ### 🚀 Technology Stack
 
